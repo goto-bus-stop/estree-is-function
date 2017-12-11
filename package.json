@@ -1,7 +1,7 @@
 {
   "name": "estree-is-function",
-  "description": " check if an AST node is a function of some sort",
-  "version": "0.0.0",
+  "description": "check if an AST node is a function of some sort",
+  "version": "1.0.0",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": {
     "url": "https://github.com/goto-bus-stop/estree-is-function/issues"
